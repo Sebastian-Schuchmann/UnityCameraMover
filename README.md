@@ -1,5 +1,5 @@
 # UnityCameraMover
-This is a basic Script to automate moving the camera. You can add different target positions via the editor UI. When enabling debug mode, you can easily move to the different positions via key presses. It interpolates between two positions and uses a animation curve of your choice for interpolation. 
+This is a basic script to automate moving the camera. You can add different target positions via the editor UI. When enabling debug mode, you can easily move to the different positions via key presses. It interpolates between two positions and uses a animation curve of your choice for interpolation. 
 
 # Setup
 - Add the CameraMover script to your camera 
