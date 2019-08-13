@@ -7,4 +7,4 @@ This is a basic Script to automate moving the camera. You can add different targ
 - Reference this GameObject in your CameraMover script (Cam Positions Parent)
 - Now you can move your camera and add different positions via "Add Target Position"
 
-![Editor Preview]("https://github.com/Sebastian-Schuchmann/UnityCameraMover/blob/master/Preview%20Image.png?raw=true")
+![Editor Preview](https://github.com/Sebastian-Schuchmann/UnityCameraMover/blob/master/Preview%20Image.png?raw=true)
